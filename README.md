@@ -1,13 +1,10 @@
 # SSL-Project
-CS 251 (SSL)  course Project.
+Self project 
 
 Project Name :- Survey Management System (SMS)
 --like google form
 
-Take a look of our website at http://jsuthar.pythonanywhere.com/
 
-Team Name :- Bash Overflow
-Teammates :- Jagdish Suthar, Akram Khan, Kaushal U
 
 HOW TO USE:
 1) install any one of the database if not already installed. (sqlite3 or mySQL or postgreSQL)
