@@ -7,6 +7,8 @@ Project Name :- Survey Management System (SMS)
 
 
 HOW TO USE:
+
+
 1) install any one of the database if not already installed. (sqlite3 or mySQL or postgreSQL)
 PostgreSQL installation guid (https://computingforgeeks.com/installing-postgresql-database-server-on-ubuntu/)
 For sqlite3 and mysql Databases you can google how to install
